@@ -23,6 +23,6 @@
 
 ### Code Examples 
 
-'''javascript
+```javascript
 alert('Hi there');
-'''
+````
